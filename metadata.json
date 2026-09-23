@@ -1,0 +1,6 @@
+{
+  "name": "Aventura no Navegador",
+  "description": "Jogo educativo interativo para alunos do 3º ano aprenderem sobre navegadores, barra de endereço, palavras-chave e segurança digital com fases interativas e acessibilidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
